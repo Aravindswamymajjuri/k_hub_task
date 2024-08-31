@@ -1,0 +1,32 @@
+.head-container
+{
+  width: 100%;
+  height: 80px;
+  display: flex;
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  margin-bottom: 10px;
+
+  
+}
+.first-color
+{
+  background-color: #6789BB;
+  width: 65%;
+  display: flex;
+  align-items: center;
+  padding-left: 10px;
+  font-size: 30px;
+  color: #FFFFFF;
+}
+.second-color
+{
+  background-color:#4B6488;
+  width: 18%;
+}
+.third-color
+{
+  background-color:#2D3B51;
+  width: 17%;
+}
