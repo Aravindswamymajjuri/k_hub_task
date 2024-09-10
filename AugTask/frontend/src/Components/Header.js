@@ -8,6 +8,7 @@ function Header() {
       <div className='second-color'></div>
       <div className='third-color'></div>
     </div>
+    
   );
 }
 
